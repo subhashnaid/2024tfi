@@ -36,6 +36,7 @@ nav ul li a:hover{
     margin-left: 20%;
     display: flex;
     gap:30px;
+    margin-bottom: 50px;
 }
 .search input{
     border-radius: 30px;
